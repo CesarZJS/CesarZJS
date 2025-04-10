@@ -2,7 +2,7 @@
 
 ### Front-End Developer & Analista de Sistemas
 
-¡Hola! Soy Cesar, un **programador junior** con un enfoque en **desarrollo Front-End** y **análisis de sistemas**. Me apasiona crear aplicaciones web interactivas, funcionales y de fácil uso. Actualmente, estoy estudiando **Ingeniería de Sistemas** y mejorando mis habilidades en tecnologías como HTML, CSS, JavaScript, Angular y React.
+¡Hola! Soy Cesar, un **programador junior** con un enfoque en **desarrollo Front-End** y **análisis de sistemas** en formacion a **Full-Stack**. Me apasiona crear aplicaciones web interactivas, funcionales y de fácil uso. Actualmente, estoy estudiando **Ingeniería de Sistemas** y mejorando mis habilidades en tecnologías como HTML, CSS, JavaScript, Angular y React.
 
 ## Tecnologías que Uso
 - **Frontend:** HTML, CSS, JavaScript, Angular
